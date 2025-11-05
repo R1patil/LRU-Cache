@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/refactoring-java-R69patil" vcs="Git" />
+>>>>>>> 9f57bc097764ecb3a3bcfae7a06df50fac7ed227
   </component>
 </project>

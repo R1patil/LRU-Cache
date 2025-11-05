@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/LRU.iml" filepath="$PROJECT_DIR$/LRU.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-functional-test-java.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-functional-test-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-functional-test-java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-functional-test-java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-functional-test-java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-functional-test-java.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/speech_demo_test.iml" filepath="$PROJECT_DIR$/.idea/speech_demo_test.iml" />
+>>>>>>> 9f57bc097764ecb3a3bcfae7a06df50fac7ed227
     </modules>
   </component>
 </project>
